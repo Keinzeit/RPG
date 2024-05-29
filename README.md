@@ -1,2 +1,2 @@
 # RPG
-Rol playing game exercise using funtions
+Role playing game exercise using functions
